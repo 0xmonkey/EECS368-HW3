@@ -1,4 +1,4 @@
-//Tyler Michels HW3
+//HW3
 //Date: 2/23/17
 
 var flatten = function(x){
